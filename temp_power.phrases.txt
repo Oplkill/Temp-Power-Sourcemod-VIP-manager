@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Your_vip_is_ended"
+	{
+		"en"				"Your VIP is ended"
+	}
+    "Your_vip_ends"
+	{
+        "#format"			"{1:s}"
+		"en"				"Your VIP ends {1}."
+	}
+}
